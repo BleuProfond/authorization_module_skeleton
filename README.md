@@ -1,0 +1,1 @@
+A basic skeleton for an authorization API created with Node.js/Express that works with MongoDB.
